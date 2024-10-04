@@ -1,7 +1,7 @@
-# DeepLink - Municipal Corporation Department Platform
+# DeepLink
 
 ## Overview
-**DeepLink** is a comprehensive platform designed and developed for municipal corporation departments. Built using **HTML**, **CSS**, and **PostgreSQL**, the platform enhances transparency and collaboration by integrating project visibility and tracking features, resulting in an efficiency improvement of **25%**.
+**DeepLink** is a comprehensive platform designed and developed to enhance system efficiency and streamline operations. Built using HTML, CSS, and PostgreSQL, the platform improves transparency and collaboration by integrating project visibility and tracking features, resulting in a 25% increase in efficiency.
 
 ## Features
 - **Project Tracking**: Monitor the progress and status of ongoing projects.
