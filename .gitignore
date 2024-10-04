@@ -1,0 +1,36 @@
+
+### **.gitignore**
+
+```gitignore
+# Node modules (if using Node.js)
+node_modules/
+
+# PHP dependencies (if using PHP)
+vendor/
+
+# Environment variables
+.env
+db_config.json
+
+# PostgreSQL database dumps and backups
+*.sql
+*.dump
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Build directories (if applicable)
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
